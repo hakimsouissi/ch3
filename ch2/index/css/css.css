@@ -1,0 +1,169 @@
+body{
+    background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+}
+
+button:hover{
+    background-color:white 
+    
+}
+
+
+#test{
+    color: aqua
+}
+
+#test{
+    color: azur
+} 
+#corse1{
+    color: white; 
+}
+    
+
+#corse{
+background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 450px;
+}
+#corse h1{
+    position :relative;
+    top:50%;
+    font-size: 50px;
+}
+#pictur{
+    width: 20px; 
+    height: 20px;
+
+}
+.menu{
+    color: aliceblue;
+    font-size: 30px;
+    padding: 10px;
+}
+#view{
+    color: aliceblue;
+
+}
+#more{
+    color: aliceblue;
+    font-size: 30px;
+
+}
+#feed{
+color: aliceblue;
+font-size: 60px;
+
+}
+#phone {
+    color: white
+}
+#email{
+    color: white
+}
+#name{
+    color: white
+}
+
+#track{
+
+
+    color: white
+}
+
+#track{
+    color: white
+
+
+}
+.images{
+    padding: 20px;
+
+}
+.images{
+    padding: 20px ;
+
+}
+.images{
+padding: 20px
+
+}
+.images{
+    padding:20px
+
+}
+.images{
+    padding: 20px
+}
+.images{
+    padding: 20px
+}
+.images{
+padding: 20px
+}
+.contact{background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 450px;
+    color: white ; 
+    
+}
+.contact h1{
+    position: relative;
+    top: 50%;
+}
+
+#ind{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-image: url("../ress/Objet\ dynamique\ vectoriel.png");
+    height:250px;
+    width: 250px;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 10px; 
+}
+
+
+#web{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../ress/Objet\ dynamique\ vectoriel1.png");
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    
+    
+}
+#intr{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../ress/Objet\ dynamique\ vectoriel2.png");
+    height:250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+#poly{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#ind-btn, #ben,#ho{
+    display: none;
+}
